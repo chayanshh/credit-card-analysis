@@ -2,8 +2,8 @@
 This project provides a data-driven analysis of credit card transactions to uncover spending patterns, customer segmentation, and financial risk trends. Utilizing **Python** and **SQL**, it transforms raw billing data into actionable insights and visualizations to optimize credit limit management and detect potential churn.
 
 
-#Here's your full SQL KPI reference bank! Here's what's included:
-##5 categories, 50 KPIs:
+# Here's your full SQL KPI reference bank! Here's what's included:
+## 5 categories, 50 KPIs:
 
 -- Revenue & Profitability (Q1–10) — interest revenue, QoQ growth, top-10% Pareto, profitability by job/state
 
